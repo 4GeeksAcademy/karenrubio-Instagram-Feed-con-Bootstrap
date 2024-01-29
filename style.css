@@ -1,0 +1,19 @@
+.container{
+   width: 60%;
+    
+}
+
+.cards, .col-8{
+
+    margin: 15px auto;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.box-cam-loc{
+    display: flex;
+}
